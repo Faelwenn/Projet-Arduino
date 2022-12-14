@@ -1,0 +1,9 @@
+- Gates imprimées en 3d pour faire tomber les billes
+- Moteurs pour ouvrir les gates
+- Ressorts pour les gates
+- Bois pour la structure
+- Billes de métal
+- Métallophone
+- Deux boutons pour choisir le mode
+- Entonnoirs pour récupérer les billes
+- LEDs ou panneau d'affichage pour indiquer à l'utilisateur dans quel mode il se trouve (mode libre ou prédéfini)

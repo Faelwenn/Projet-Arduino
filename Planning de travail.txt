@@ -1,0 +1,7 @@
+Séance 1 et 2 : Début du programme (Bastien) + Conception de la machine (Ilian).
+
+Séance 3 et 4 : Fin du programme (Bastien) + Impression et découpage des pièces (Ilian) 
+
+Séance 5, 6 et 7 : Assemblage de la machine + corrections des bugs + série de tests pour régler la machine (Bastien & Ilian)
+
+Séance 8 : Finalisation du projet (Bastien & Ilian)
